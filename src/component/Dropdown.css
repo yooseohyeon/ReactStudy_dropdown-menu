@@ -29,8 +29,13 @@ body {
   color: #1d1d1d;
 }
 
-.meun-header svg {
+.meun-header button {
+  padding: 0;
+  height: 24px;
+  border: none; 
+  border-radius: 0; 
   cursor: pointer;
+  background-color: #ffffff00;
 }
 
 .sub-meun {
